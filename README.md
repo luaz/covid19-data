@@ -2,7 +2,7 @@
 
 COVID-19 / Coronavirus Data Source For Each Country (Ministry of Health)
 
-## World
+## World / Global
 
 [Johns Hopkins](https://coronavirus.jhu.edu/)
 
